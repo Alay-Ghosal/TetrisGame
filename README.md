@@ -1,2 +1,3 @@
 # TetrisGame
-tetri sthe game
+tetris the game
+Gandu Alay
