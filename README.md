@@ -1,4 +1,4 @@
 # TetrisGame
 tetris the game
 <br>
-Gandu Alay
+Gandu Alay Ghosal 
